@@ -1,7 +1,9 @@
 Amazon Sales Analysis | Power BI Dashboards
 
 📌 Overview
+
 This project presents two interactive Power BI dashboards for analyzing Amazon Product Sales and Amazon Prime performance. It provides insights into sales trends, top products, customer engagement, and movie sales performance.
+
 
 🚀 Key Achievements
 
@@ -12,6 +14,7 @@ This project presents two interactive Power BI dashboards for analyzing Amazon P
 ✔ Utilized Excel for data preprocessing, ensuring data accuracy before integration into Power BI.
 
 ✔ Provided insights into top-selling categories and customer purchasing behavior for strategic decision-making.
+
 
 📊 Dashboards
 
@@ -31,6 +34,7 @@ Filters by movie type, quality, and director
 
 Visuals: Line charts, bar charts, donut charts.
 
+
 🔹 Key Features
 
 ✅ KPI Metrics – Sales, product performance, reviews
@@ -38,6 +42,7 @@ Visuals: Line charts, bar charts, donut charts.
 ✅ Data Visualizations – Interactive charts & filters
 
 ✅ User-Friendly Design – Intuitive & dark-themed UI
+
 
 📂 Repository Contents
 
